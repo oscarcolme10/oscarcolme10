@@ -1,14 +1,14 @@
-# Hi, I'm Óscar 👋
+## Óscar García Redondo 
 
 **Biomedical Engineering student · Embedded firmware for medical devices**
 
-I build the full chain of a medical device — from the analog front-end that reads a biosignal, through the real-time firmware that acquires it, to the model that interprets it. I care about systems that are not just working, but *measured*: deterministic, predictable, and validated on hardware rather than on a slide.
+I build the full chain of a medical device, from the analog front-end that reads a biosignal, through the real-time firmware that acquires it, to the model that interprets it. I care about systems that are not just working, but *measured*: deterministic, predictable, and validated on hardware rather than on a slide.
 
 📍 Madrid, Spain · Final-year BSc in Biomedical Engineering (UAM)
 
 ---
 
-### 🔧 What I work with
+### 🔧 Personal Skills
 
 **Embedded & Firmware**
 `C` · `ARM Cortex-M4 / M7` · `STM32 (L4 / H7)` · `FreeRTOS` · `TIM→ADC→DMA` · `Interrupts / NVIC` · real-time state machines
@@ -35,7 +35,7 @@ End-to-end biosignal system, electrode to actuator: a 4-channel sEMG analog fron
 
 ### 🧭 What I'm about
 
-I'm drawn to the point where hardware meets software — the messy, real part where a signal has to be conditioned, sampled deterministically, and turned into a reliable decision, all on a resource-constrained microcontroller. My goal is to grow into firmware development for active medical devices: prosthetics, neurotechnology, medical robotics.
+I'm drawn to the point where hardware meets software, the messy, real part where a signal has to be conditioned, sampled deterministically, and turned into a reliable decision, all on a resource-constrained microcontroller. My goal is to grow into firmware development for active medical devices: prosthetics, neurotechnology, medical robotics.
 
 Outside the bench: futsal, and coaching a youth team taught me more about leading under pressure than any lab did.
 
