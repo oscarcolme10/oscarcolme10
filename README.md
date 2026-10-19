@@ -19,7 +19,7 @@ I build the full chain of a medical device, from the analog front-end that reads
 **Analog & Hardware**
 biopotential front-end design · instrumentation amplifiers · galvanic isolation · active filtering · sEMG/EMG acquisition · oscilloscope debugging
 
-**Currently learning** → C++ · CAN · MISRA C:2012 · medical-device software lifecycle (IEC 62304 / ISO 14971)
+**Currently learning** → MISRA C:2012 · medical-device software lifecycle (IEC 62304 / ISO 14971)
 
 ---
 
