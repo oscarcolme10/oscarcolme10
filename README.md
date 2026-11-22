@@ -28,8 +28,8 @@ biopotential front-end design · instrumentation amplifiers · galvanic isolatio
 **🩸 [TinyML at the Edge — Blood Cell Classification on STM32](https://github.com/oscarcolme10/tinyml-medmnist-stm32l4)**
 An int8 CNN deployed on a Cortex-M4 (STM32L476RG) within a 128 kB RAM budget — 92% accuracy at 174 ms/inference, measured on hardware. No accelerator, no cloud, no external RAM. A study in taking a model from training through quantisation to a real embedded target.
 
-**🦾 Myoelectric Prosthetic Hand — Real-Time sEMG Gesture Recognition** *(in progress — thesis)*
-End-to-end biosignal system, electrode to actuator: a 4-channel sEMG analog front-end I designed and bench-validated myself, plus deterministic acquisition and gesture-classification firmware migrating to an STM32H7 under FreeRTOS. *Repository coming once the hardware measurements are in.*
+**🦾 Myoelectric Prosthetic Hand — Real-Time sEMG Gesture Recognition** 
+End-to-end biosignal system, electrode to actuator: a 4-channel sEMG analog front-end I designed and bench-validated myself, plus deterministic acquisition and gesture-classification firmware migrating to an STM32H7 under FreeRTOS. *Repository coming once thesis is done*
 
 ---
 
